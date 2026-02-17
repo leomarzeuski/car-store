@@ -11,6 +11,10 @@ const nextConfig: NextConfig = {
         protocol: "https",
         hostname: "dcdws.blob.core.windows.net",
       },
+      {
+        protocol: "https",
+        hostname: "imagescf.dealercenter.net",
+      },
     ],
   },
 };
