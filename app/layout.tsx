@@ -49,16 +49,18 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="en">
+    <html lang="en" className="overflow-x-hidden">
       <body
-        className={`${geistSans.variable} ${geistMono.variable} antialiased`}
+        className={`${geistSans.variable} ${geistMono.variable} antialiased overflow-x-hidden`}
       >
         <LanguageProvider>
           <a href="#main-content" className="skip-link">
             Skip to main content
           </a>
           <Header />
-          <main id="main-content" className="min-h-screen">{children}</main>
+          <main id="main-content" className="min-h-screen">
+            {children}
+          </main>
           <Footer />
           <WhatsAppButton />
         </LanguageProvider>
