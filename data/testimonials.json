@@ -1,0 +1,56 @@
+[
+  {
+    "id": "1",
+    "name": "James Richardson",
+    "text": "Car Warriors made buying my first truck an incredible experience. The team was transparent about pricing and the F-150 was exactly as described. Highly recommend!",
+    "textPt": "A Car Warriors tornou a compra da minha primeira caminhonete uma experiência incrível. A equipe foi transparente sobre preços e a F-150 era exatamente como descrita. Recomendo muito!",
+    "rating": 5,
+    "date": "2025-11-15",
+    "vehiclePurchased": "Ford F-150 XLT"
+  },
+  {
+    "id": "2",
+    "name": "Maria Santos",
+    "text": "Found the perfect Honda CR-V for my family. The financing options were flexible and the team helped me every step of the way. Amazing service!",
+    "textPt": "Encontrei o Honda CR-V perfeito para minha família. As opções de financiamento foram flexíveis e a equipe me ajudou em cada etapa. Serviço incrível!",
+    "rating": 5,
+    "date": "2025-10-28",
+    "vehiclePurchased": "Honda CR-V EX-L"
+  },
+  {
+    "id": "3",
+    "name": "David Thompson",
+    "text": "I was skeptical about buying a used luxury car, but Car Warriors' certified pre-owned BMW exceeded all expectations. Low mileage and pristine condition.",
+    "textPt": "Eu estava cético sobre comprar um carro de luxo usado, mas o BMW seminovo certificado da Car Warriors superou todas as expectativas. Baixa quilometragem e condição impecável.",
+    "rating": 5,
+    "date": "2025-09-12",
+    "vehiclePurchased": "BMW 330i xDrive"
+  },
+  {
+    "id": "4",
+    "name": "Sarah Mitchell",
+    "text": "Best dealership experience I've ever had. No pressure, fair prices, and they even delivered the car to my home. Will definitely buy my next car here.",
+    "textPt": "Melhor experiência em concessionária que já tive. Sem pressão, preços justos e até entregaram o carro na minha casa. Com certeza comprarei meu próximo carro aqui.",
+    "rating": 4,
+    "date": "2025-08-20",
+    "vehiclePurchased": "Toyota Camry XSE"
+  },
+  {
+    "id": "5",
+    "name": "Carlos Oliveira",
+    "text": "The team at Car Warriors went above and beyond to find me the exact Hyundai Tucson I wanted. Professional, friendly, and honest. Five stars!",
+    "textPt": "A equipe da Car Warriors se superou para encontrar o Hyundai Tucson exato que eu queria. Profissionais, amigáveis e honestos. Cinco estrelas!",
+    "rating": 5,
+    "date": "2025-07-05",
+    "vehiclePurchased": "Hyundai Tucson SEL"
+  },
+  {
+    "id": "6",
+    "name": "Emily Chen",
+    "text": "Switching to electric was daunting, but Car Warriors made it easy. They explained everything about the Tesla Model 3 and even helped me set up home charging. Great experience!",
+    "textPt": "Mudar para elétrico era assustador, mas a Car Warriors facilitou tudo. Explicaram tudo sobre o Tesla Model 3 e até ajudaram a configurar o carregamento em casa. Ótima experiência!",
+    "rating": 5,
+    "date": "2025-06-18",
+    "vehiclePurchased": "Tesla Model 3"
+  }
+]
